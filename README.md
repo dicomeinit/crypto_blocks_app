@@ -24,8 +24,8 @@ The application uses FastAPI for the API layer while leveraging Django's ORM and
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd crypto-block-tracker
+git clone https://github.com/dicomeinit/crypto_blocks_app
+cd crypto_blocks_app
 ```
 
 2. Build and run with Docker Compose:
