@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+django
+psycopg2-binary
+pydantic[email]
+bcrypt
+passlib
+python-jose[cryptography]
+starlette
+celery[redis]
+requests
+gunicorn
+uvicorn-worker
